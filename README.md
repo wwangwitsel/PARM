@@ -64,3 +64,15 @@ The performance of PARM is somewhat sensitive w.r.t. $\lambda$ and $\mu$, whose 
 | BirdSong | 5 | 1 |
 | LYN10 | 10 | 1 |
 | LYN20 | 10 | 1 |
+
+## citation
+```
+@inproceedings{NeurIPS20Wang,
+    author = {Wang, Wei and Zhang, Min-Ling},
+    title = {Semi-supervised partial label learning via confidence-rated margin maximization},
+    booktitle = {Advances in Neural Information Processing Systems 33},
+    address = {Virtual Event},
+    year = {2020},
+    pages = {6982-6993}
+}
+```
